@@ -1,0 +1,1 @@
+based off https://andela.com/insights/how-to-use-django-rest-framework-apiview-to-create-a-django-api-part-1/
